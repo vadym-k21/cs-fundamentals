@@ -11,3 +11,6 @@ Deletion actually sets cell to zero and dev should manage how deleted elements a
  <!-- Questions to ask -->
  1. Is element ordered? Use array 
  2. Efficient algo is to use logN = O(logN) as you always half the array
+
+
+ 
